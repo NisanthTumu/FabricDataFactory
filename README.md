@@ -13,6 +13,7 @@ The objective of this project is to design and implement a scalable, cloud-based
 •	Ensure Production-Readiness: Apply best practices for performance optimization, error handling, monitoring, and maintenance.
 
 **🎯 Learnings:**
+
 •	Setting up Fabric Data Factory from scratch 
 •	Configuring ADLS Gen2 storage 
 •	Understanding Medallion Architecture basics 
@@ -34,6 +35,7 @@ The objective of this project is to design and implement a scalable, cloud-based
 •	Best practices for production
 
 **💡 Technical Skills Covered:**
+
 •	Fabric Data Factory configuration 
 •	Data Lake storage setup 
 •	Basic data ingestion patterns 
@@ -45,6 +47,7 @@ The objective of this project is to design and implement a scalable, cloud-based
 •	Performing CI/CD
 
 **💡 Technical Deep Dive:**
+
 •	Advanced data transformation patterns 
 •	Data enrichment strategies 
 •	End-to-end pipeline testing 
