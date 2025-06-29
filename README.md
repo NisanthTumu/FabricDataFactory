@@ -1,4 +1,5 @@
-End to End Fabric Data Factory Project
+**End to End Fabric Data Factory Project**
+
 The objective of this project is to design and implement a scalable, cloud-based data engineering pipeline for entertainment platform (Netflix data) using Microsoft Fabric services. The pipelines will enable efficient data ingestion, transformation by integrating data from Source (One Lake) to Data destination (Lakehouse), ensuring data quality by performing efficient data pipeline orchestration strategies with CI/CD.
 
 ![Architecture Diagram](https://github.com/NisanthTumu/FabricDataFactory/blob/main/FabricDataFactory.png)
