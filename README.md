@@ -14,25 +14,7 @@ The objective of this project is to design and implement a scalable, cloud-based
 
 **🎯 Learnings:**
 
-•	Setting up Fabric Data Factory from scratch 
-•	Configuring ADLS Gen2 storage 
-•	Understanding Medallion Architecture basics 
-•	Implementing data ingestion from HTTP endpoints (GitHub) and ADLSGen2 with copy activity
-•	Creating your first data pipeline 
-•	Real-world implementation scenarios 
-•	If Condition Activity in Data Factory 
-•	Data Factory Real Time Scenario
-•	Load Data from Azure Data Lake 
-•	Get Metadata Activity in Data Factory
-•	ForEach Activity for Parametrized Pipelines
-•	Set Variable Activity
-•	Pipeline Monitoring and Email Notifications 
-•	Data Flow Gen2 in Data Factory 
-•	ETL Pipelines using Data Flows
-•	PySpark Tutorial 
-•	CI/CD in Data Factory
-•	Performance optimization techniques 
-•	Best practices for production
+• Setting up Fabric Data Factory from scratch • Configuring ADLS Gen2 storage • Understanding Medallion Architecture  • Implementing data ingestion from HTTP endpoints (GitHub) and ADLSGen2 with copy activity • Creating your first data pipeline • Real-world implementation scenarios • If Condition Activity• Data Factory Real Time Scenario • Load Data from Azure Data Lake • Get Metadata Activity• ForEach Activity for Parametrized Pipelines • Set Variable Activity • Pipeline Monitoring and Email Notifications • Data Flow Gen2• ETL Pipelines using Data Flows • PySpark Tutorial • CI/CD 
 
 **💡 Technical Skills Covered:**
 
